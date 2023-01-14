@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eventjinni">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EventJinni">
+        <activity
+            android:name=".view.View.view.UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.OrderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.UserCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.CustomerOrderInfo"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.DecorationServiceProviderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.DecorationServiceProviderList"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.CateringServiceProviderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.CateringServiceProviderList"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.ConventionCenterProviderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.ConventionCenterProviderList"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.CarServiceProviderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.CarServiceProviderList"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.AdminDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.UserDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.AdminLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.RegistrationPage"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.UserLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.View.view.SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

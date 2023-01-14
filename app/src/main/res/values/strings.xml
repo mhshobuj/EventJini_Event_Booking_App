@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Event Jinni</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="i_have_no_account">I have no account!</string>
+    <string name="registration">Registration</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="car_service">Car Service</string>
+    <string name="convention_center">Convention Center</string>
+    <string name="catering_service">Catering Service</string>
+    <string name="dashboard">User Dashboard</string>
+    <string name="decoration_service">Decoration Service</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="car_service_provider_list">Car Service Provider List</string>
+    <string name="address_toyota">Address: New lake road, gulshan , south badda, holding no. B 117/4 Jhil park, Dhaka 1212</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="contact_number">Contact Number: 018XXXXXXXXXX</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+</resources>

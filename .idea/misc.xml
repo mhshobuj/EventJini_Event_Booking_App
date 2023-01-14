@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/admin.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/button_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/delete_forever_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/ic_baseline_event_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/main_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/drawable/submit_button_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_admin_login.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_car_service_provider_details.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_car_service_provider_list.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_catering_service_provider_details.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_catering_service_provider_list.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_convention_center_provider_details.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_convention_center_provider_list.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_customer_order_info.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_decoration_service_prodiver_list.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_decoration_service_provider_details.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_decoration_service_provider_list.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_gear_auto_service_provider_details.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_login_user.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_order_details.xml" value="0.3484375" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_registration_page.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_user_category.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_user_dashboard.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/activity_user_profile.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/admin_item_card_view.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/edit_user_profile.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/layout.xml" value="0.3625" />
+        <entry key="..\:/EventJinni/app/src/main/res/layout/popup_window_for_order_details.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

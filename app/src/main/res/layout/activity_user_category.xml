@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:gravity="center"
+        android:background="@color/main_background"
+        tools:context=".view.View.view.UserCategoryActivity">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/event_24"/>
+
+    <Button
+        android:id="@+id/admin_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:text="@string/admin"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/user_bt"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:background="@drawable/button_background"
+        android:text="@string/user"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
